@@ -1,0 +1,71 @@
+[33mcommit a87a9dec4adecc6ddc04ab9f61bb0bed9983195e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: shreyash <shreyash@gmail.com>
+Date:   Mon Jan 1 09:13:22 2024 +0000
+
+    hellow world
+
+[33mcommit d42bbc62dcd0d2994f363871b254acd527af0afc[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: shreyash <shreyash@gmail.com>
+Date:   Mon Jan 1 07:26:21 2024 +0000
+
+    Revert "4.python"
+    
+    This reverts commit a5b483a9dd06c9ed73d2c3abc6a886d914220b4a.
+
+[33mcommit a5b483a9dd06c9ed73d2c3abc6a886d914220b4a[m
+Author: shreyash <shreyash@gmail.com>
+Date:   Mon Jan 1 07:24:23 2024 +0000
+
+    4.python
+
+[33mcommit ff2bfe771faab3647132ef8dbad93983d9913144[m
+Author: shreyash <shreyash@gmail.com>
+Date:   Mon Jan 1 07:22:28 2024 +0000
+
+    Revert "modifies"
+    
+    This reverts commit 6522180ca411dfe01497fd54b9f340ba92aeb101.
+
+[33mcommit 6522180ca411dfe01497fd54b9f340ba92aeb101[m
+Author: shreyash <shreyash@gmail.com>
+Date:   Mon Jan 1 07:20:28 2024 +0000
+
+    modifies
+
+[33mcommit d1b60db9d6826ace6c40d542b225dc0bad0766cb[m
+Author: shreyash <shreyash@gmail.com>
+Date:   Mon Jan 1 07:17:36 2024 +0000
+
+    Revert "sambjare"
+    
+    This reverts commit ae2aa34d1dc16de2d3b23ee39164cd07696d074f.
+
+[33mcommit 29b062378aa5cdd6d7d81fcaa247a1e43c108304[m
+Author: shreyash <shreyash@gmail.com>
+Date:   Mon Jan 1 07:14:18 2024 +0000
+
+    sdvsade
+
+[33mcommit 63470556c2c363e069e68bbb41188690563fdbe4[m
+Author: shreyash <shreyash@gmail.com>
+Date:   Mon Jan 1 07:06:34 2024 +0000
+
+    sdvsade
+
+[33mcommit ae2aa34d1dc16de2d3b23ee39164cd07696d074f[m
+Author: shreyash <shreyash@gmail.com>
+Date:   Fri Dec 29 19:22:09 2023 +0000
+
+    sambjare
+
+[33mcommit 5d3737192333746802f062faa3ac9cf83ac31cef[m
+Author: shreyash <shreyash@gmail.com>
+Date:   Fri Dec 29 19:13:54 2023 +0000
+
+    my first  commit
+
+[33mcommit 284b9e4c16764e25e46ec732b58df9ccab8cf2d6[m
+Author: shreyash <shreyash@gmail.com>
+Date:   Fri Dec 29 19:09:50 2023 +0000
+
+    my first  commit
